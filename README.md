@@ -1,1 +1,1 @@
-# Omni_Code
+# OmniStore_Project_Configs
